@@ -1,5 +1,5 @@
-# Hi , I'm Taradon Pimpa 
-### 🚀 Aspiring Computer Engineer & Cyber Security Enthusiast
+# Hi
+###  I learn code for fun
 
 <p align="left">
 <a href="https://portfolio-taradon-pimpa.vercel.app/" target="_blank">
