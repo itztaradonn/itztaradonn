@@ -1,6 +1,8 @@
 # Hi
 ###  I learn code for fun
 
+- Current learning ReactJS , NodeJS 
+
 <p align="left">
 <a href="https://portfolio-taradon-pimpa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -9,7 +11,7 @@
 
 ---
 
-### 💻 Technical Expertise
+### My Skill :
 
 #### 🌐 Web & Backend Development
 <p align="left">
