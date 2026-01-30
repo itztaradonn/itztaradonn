@@ -1,4 +1,5 @@
-# Hi
+# Hi I'm Taradon Pimpa 
+- IT Student At E-tech!
 ###  I learn code for fun
 
 - Current learning ReactJS , NodeJS 
