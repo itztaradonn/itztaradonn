@@ -4,13 +4,12 @@
 
 - Current learning ReactJS , NodeJS 
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://portfolio-taradon-pimpa.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-</p>
+</p> -->
 
----
 
 ### My Skill :
 
@@ -40,8 +39,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=itztaradonn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itztaradonn&layout=compact&theme=tokyonight)
