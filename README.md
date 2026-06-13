@@ -2,7 +2,7 @@
 - IT Student At E-tech!
 ###  I learn code for fun
 
-- Current learning ReactJS , NodeJS 
+- Current learning Cybersecurity 
 
 <!-- <p align="left">
 <a href="https://portfolio-taradon-pimpa.vercel.app/" target="_blank">
